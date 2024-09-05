@@ -20,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # emulator
 ![alt text](<Screenshot from 2024-09-05 13-20-40.png>)
+
+# mobile device
+![alt text](Screenshot_20240905_134233.jpg)
