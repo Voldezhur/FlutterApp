@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # web
 ![alt text](<Screenshot from 2024-09-04 21-58-36.png>)
+
+# emulator
+![alt text](<Screenshot from 2024-09-05 13-20-40.png>)
